@@ -6,3 +6,4 @@ John made this change
 Section 3
 
 Section 4
+John made this section
