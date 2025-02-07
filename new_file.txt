@@ -8,3 +8,6 @@ Section 3
 
 Section 4
 Kate made this change
+
+Section 5
+John made this section
